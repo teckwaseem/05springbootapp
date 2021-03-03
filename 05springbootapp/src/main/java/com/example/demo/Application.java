@@ -5,7 +5,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Application {
-	
+	int x = 20;
+        int y = 30;
 	public static void m1() {
 		System.out.println("write is coloun");
 	}
